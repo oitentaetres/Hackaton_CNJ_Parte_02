@@ -36,5 +36,5 @@ Exemplo:
 
 Lista de bibliotecas utilizadas nessas etapas:
 
-     - pip install -U pandas
-     - pip install -U glob
+  - pip install -U pandas
+  - pip install -U glob
