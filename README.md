@@ -31,7 +31,7 @@ Para instalar as bibliotecas python utilizadas, em um console, utilize o comando
 Exemplo:
 
 ```
->>> pip install -U spacy
+>>> pip install -U pandas
 ```
 
 Lista de bibliotecas utilizadas nessas etapas:
